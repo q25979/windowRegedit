@@ -1,0 +1,10 @@
+- 右键菜单
+    编辑文件 => \HKEY_CLASSES_ROOT\*\shell\Sublime\command
+    桌面 => \HKEY_CLASSES_ROOT\Directory\Background\shell
+
+- 默认浏览器
+    => \HKEY_CLASSES_ROOT\http\shell\open\command
+
+- 启动项
+    => ..\Windows\CurrentVersion\Run..
+    => HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon
